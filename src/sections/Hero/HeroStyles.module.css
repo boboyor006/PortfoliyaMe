@@ -69,6 +69,7 @@
 
 .description {
   max-width: 24ch;
+  /* border: 1px solid; */
 }
 
 .info {
@@ -87,6 +88,11 @@
       max-width: 350px;
       width: 350px;
     }
+
+    .description{
+      /* margin-left: 100px; */
+      /* border: 1px solid ; */
+    }
   }
 }
 
@@ -96,5 +102,12 @@
       max-width: 400px;
       width: 400px;
     }
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  .description{
+    margin-left: 80px ;
   }
 }

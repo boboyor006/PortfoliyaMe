@@ -8,13 +8,13 @@ import ProjectCard from '../../common/ProjectCard';
 function Projects() {
   return (
     <section id="projects" className={styles.container}>
-      <h1 className="sectionTitle">Projectlarim</h1>
+      <h1 className="sectionTitle">Qo'shimcha ko'nikmalarim </h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+          h3="Video"
+          p="Video Mantaj qilish "
         />
         <ProjectCard
           src={freshBurger}
