@@ -7,7 +7,7 @@ function Contact() {
       <form action="">
         <div className="formGroup">
           <label htmlFor="name" hidden>
-            Name
+            ism 
           </label>
           <input
             type="text"
@@ -19,7 +19,7 @@ function Contact() {
         </div>
         <div className="formGroup">
           <label htmlFor="email" hidden>
-            Email
+            email pochta 
           </label>
           <input
             type="text"
