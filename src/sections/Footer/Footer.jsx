@@ -4,8 +4,8 @@ function Footer() {
   return (
     <section id="footer" className={styles.container}>
       <p>
-        &copy; 2025-yil Po'latov Boboyor <br />
-        O'z partfoliyaga ega bo'ldi. 😃
+        &copy; Xali yana davomi bor bu "Partfoliyani" davomi  <br />
+
       </p>
     </section>
   );

@@ -19,7 +19,6 @@ function Contact() {
         </div>
         <div className="formGroup">
           <label htmlFor="email" hidden>
-            email pochta 
           </label>
           <input
             type="text"
